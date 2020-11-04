@@ -8,3 +8,4 @@ dist
 ClusterImage.egg-info
 
 .nfs*
+.ipynb_checkpoints
